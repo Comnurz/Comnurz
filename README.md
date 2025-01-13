@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Full Stack Python Developer and I am working for Corsearch Company.
+I am Full Stack Python Developer.
 
 
 ## 🌐 Socials:
